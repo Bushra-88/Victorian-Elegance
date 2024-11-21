@@ -4,15 +4,6 @@
 
 > _Welcome to Victorian Elegance, a web application that beautifully showcases Victorian-era art, delicate tea sets, and elegant accessories. Our collection allows users to explore and purchase exquisite items reminiscent of a timeless era._
 
-## Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - **Multi-Page Navigation:** Easily browse different sections including Gallery, Favorites, Cart, and Contact Us.
