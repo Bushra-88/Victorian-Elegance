@@ -20,7 +20,7 @@ const Favorites = () => {
                 className="border rounded-lg p-4 flex flex-col items-center relative bg-gray-100">
                 {/* Remove Button (X) */}
                 <button
-                  className="absolute top-2 right-2 bg-red-500 text-white rounded-full w-8 h-8 flex items-center justify-center"
+                  className="absolute top-2 right-2 bg-red-800 text-white rounded-full w-8 h-8 flex items-center justify-center"
                   onClick={() => removeFromFavorites(item.id)} // Call function to remove from favorites
                 >
                   x
