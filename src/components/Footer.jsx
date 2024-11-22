@@ -19,7 +19,7 @@ const Footer = () => {
             LinkedIn
           </a>
           <a
-            href="https://github.com/Bushra-88/Victorian-Elegance"
+            href="https://github.com/Bushra-88"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center hover:text-rose-400 transition">
